@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Yash Goswami</h1>
+<h1 align="center">Hello,
+I'm Yash Goswami</h1>
 <h3 align="center">A final-year undergraduate at IIIT Senapati, Manipur, with a strong focus on Full-stack Web Development. I specialize in creating responsive user interfaces with React and managing back-end systems using Node.js and Express.js. My skills include a solid understanding of databases like MongoDB and MySQL, and I am proficient with version control using Git and GitHub. I have experience with projects like developing a sleek car sales website and a real-time IoT-based railway gate automation system. My background also includes an internship at DRDO in quantum computing and a leadership role as a Content Team Lead.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashhhgoswami&label=Profile%20views&color=0e75b6&style=flat" alt="yashhhgoswami" /> </p>
