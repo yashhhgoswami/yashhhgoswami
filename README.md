@@ -180,7 +180,7 @@
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="portfolio" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/15LS4cACJ_zZfb_Y6DOtqdEBtNu2dy0y6/view" target="_blank" style="margin: 0 20px;">
+  <a href="https://drive.google.com/file/d/1AnJPyMQOsfs13sds8PfUZ3z_ojquHOp8/view?usp=sharing" target="_blank" style="margin: 0 20px;">
     <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="resume" height="50" width="50" />
   </a>
 </div>
