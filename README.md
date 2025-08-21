@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yashhhgoswami/yashhhgoswami/main/yashbanner11.svg" alt="Yash Goswami Banner" style="width:100%; border-radius:10px;"/>
+<img src="https://raw.githubusercontent.com/yashhhgoswami/yashhhgoswami/main/yashbanner.svg" alt="Yash Goswami Banner" style="width:100%; border-radius:10px;"/>
 
 <div align="center">
   <h1>Yash Goswami</h1>
