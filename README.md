@@ -125,16 +125,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## GitHub Trophies 🏆
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashhhgoswami&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 ## GitHub Stats
 
 <div align="center">
