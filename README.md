@@ -34,7 +34,7 @@
 
 <div align="left">
 
-**Frontend Developer – Teachrity (Remote)**  
+**Software Developer – Teachrity (Remote)**  
 *July 2025 – Present*  
 - Built and maintained responsive, scalable UI components using **React.js** and **Tailwind CSS**.  
 - Collaborated with designers and backend engineers to deliver seamless end-to-end user flows.  
