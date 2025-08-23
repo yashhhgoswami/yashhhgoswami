@@ -30,6 +30,59 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+## Experience
+
+<div align="left">
+
+**Frontend Developer – Teachrity (Remote)**  
+*July 2025 – Present*  
+- Built and maintained responsive, scalable UI components using **React.js** and **Tailwind CSS**.  
+- Collaborated with designers and backend engineers to deliver seamless end-to-end user flows.  
+- Optimised rendering performance and reduced load times across devices and browsers.  
+- Implemented reusable component patterns for maintainability and faster iterations.
+
+**Quantum Computing Intern – DRDO (Defence Research & Development Organisation), India (Onsite)**  
+*May 2025 – July 2025*  
+- Focused on photonic quantum computing: fundamentals and simulation of core algorithms.  
+- Implemented **Quantum Fourier Transform**, **Bernstein–Vazirani**, and basic logic gates using the **Perceval** framework.  
+- Simulated quantum circuits and visualised quantum states with Python-based tooling.
+
+</div>
+
+## Projects
+
+> A few highlights with links to source and live demos.
+
+### YG Motors  
+**Tech:** React.js, Tailwind CSS, Firebase, Node.js  
+**GitHub:** https://github.com/yashhhgoswami/YG-Motors  
+**Live:** https://yg-motors.vercel.app/  
+- Responsive car sales platform with advanced filtering & search.  
+- Component-based architecture with Tailwind styling.  
+- Firebase auth + real-time data updates.
+
+### Personal Portfolio Website  
+**Tech:** React.js, CSS, JavaScript  
+**GitHub:** https://github.com/yashhhgoswami/my-portfolio  
+**Live:** https://my-portfolioo-beige.vercel.app/  
+- Mobile-first portfolio showcasing skills, projects, and experience.  
+- Reusable components & performance optimisations.
+
+### RailGuard  
+**Tech:** Firebase, HTML, CSS, JavaScript, MicroPython  
+**GitHub:** https://github.com/yashhhgoswami/RailwaySafety  
+**Live Dashboard:** https://railguard-dashboard.onrender.com/  
+**Simulation:** https://wokwi.com/projects/430589393822123009  
+- IoT-based railway gate automation using ESP32 & multi-sensor inputs.  
+- Firebase for live logging, events, and remote monitoring.  
+- Responsive dashboard for real-time train alerts & gate status.  
+- Simulated detection & ETA estimation via Wokwi.  
+- Solar backup & offline resilience for low-infrastructure areas.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## Tech Stack
 
 ### Languages
