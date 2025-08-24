@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/yashhhgoswami/yashhhgoswami/main/yashbanner11.svg" alt="Yash Goswami Banner" style="width:100%; border-radius:10px;"/>
 
 <div align="center">
-  <h1>Yash Goswami (Nalla Berozgar)</h1>
+  <h1>Yash Goswami</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Final+Year+Student+at+IIIT+Senapati;React+%7C+Node.js+%7C+Flutter;MERN+Stack+Enthusiast;IoT+%26+Quantum+Computing;Rap+Artist+%26+Developer" alt="Typing SVG" />
